@@ -1,4 +1,4 @@
 baseURL = 'https://Physlex.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Portfolio Website'
 theme = 'ananke'
